@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923444844060';
+const defaultOwner = '3584573989786';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -20,7 +20,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'ULTRA-MD';
-global.botNumber = '923051391007' //replace your bot number here
+global.botNumber = '3584573989786' //replace your bot number here
 
 global.mods = []
 global.prems = []
@@ -41,7 +41,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://youtube.com/@virtual-expert'
 
 
 global.APIs = {
